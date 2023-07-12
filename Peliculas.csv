@@ -1,0 +1,52 @@
+--- Peliculas ---
+id_peli,titulo,genero,duracion
+1,Adventures of Rocky,Adventure,128
+2,My Brother the Devil,Drama,190
+3,Criminal,Drama,206
+4,Monster in a Box,Comedy,112
+5,Lovely Amazing,Comedy,151
+6,Sleeping Dictionary,Romance,147
+7,Mannequin,Comedy,209
+8,Rouva presidentti,Documentary,240
+9,Fools Parade,Comedy,181
+10,Hitcherr,Horror,208
+11,Longtime Companion,Drama,211
+12,San Francisco,Musical,188
+13,Werckmeister Harmonies,Drama,136
+14,Open Season,Animation,169
+15,Antarctica,Adventure,228
+16,Love in the Afternoon,Drama,129
+17,Wild Tales,Comedy,197
+18,Headhunters,Action,215
+19,Moby Dick,Drama,161
+20,Doors,Drama,106
+21,Dont Look in the Basement,Horror,222
+22,Lobo,Comedy,168
+23,Only Old Men,Comedy,110
+24,Killing Bonos,Comedy,116
+25,My Friend Irma Goes,Musical,194
+26,Waiting,Comedy,155
+27,Powerpuff Girls,Action,172
+28,Brotherhood of Death,Action,126
+29,Music Within,Comedy,147
+30,Bedford Incident,Drama,131
+31,One Shot,Documentary,178
+32,Troll,Horror,232
+33,Twilight of a Woman,Drama,211
+34,Little Girl,Drama,240
+35,G Men,Drama,188
+36,Camp,Drama,144
+37,Finding Forrester,Drama,110
+38,The End of the Tour,Drama,102
+39,Night Court,Thriller,148
+40,Invincible Iron Man,Animation,124
+41,Professor Beware,Comedy,134
+42,Beans of Egypt,Drama,236
+43,Strike Up the Band,Comedy,232
+44,Gabriel,Action,148
+45,Killjoy 3,Horror,227
+46,The Man Who Shook,Comedy,189
+47,Boy Meets Girls,Comedy,203
+48,True Confession,Comedy,222
+49,Violent Men,Western,208
+50,Short Film About Love,Drama,114
